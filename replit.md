@@ -14,7 +14,7 @@
   ![image](https://github.com/winofsql/subject-231206/assets/1501327/a46343be-4256-4603-ba12-ea51000ff087)
 
 - ### lightbox.sqlite3 取得
-  🔴 wget インストール 
+  🔴 wget インストール\
   ![image](https://github.com/winofsql/subject-231206/assets/1501327/8690da13-fe61-443c-b565-8df2876821d4)
   ```
   wget -O lightbox.sqlite3 https://github.com/winofsql/resource-winofsql/raw/main/sqlite3/lightbox.sqlite3
