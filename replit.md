@@ -20,7 +20,7 @@
   ```
   wget -O lightbox.sqlite3 https://github.com/winofsql/resource-winofsql/raw/main/sqlite3/lightbox.sqlite3
   ```
-
+  🔴 ソースコード
   ```java
   import java.sql.*;
 
