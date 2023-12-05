@@ -55,4 +55,8 @@
 
   ![image](https://github.com/winofsql/subject-231206/assets/1501327/faedb2f9-c618-483c-8d78-dc2da5fb09f8)
 
+  ```
+  wget -O hanbai.accdb https://github.com/winofsql/resource-winofsql/raw/main/access/%E8%B2%A9%E5%A3%B2%E7%AE%A1%E7%90%86.accdb
+  ```
+
  
