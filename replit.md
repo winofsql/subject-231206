@@ -12,3 +12,6 @@
   ![image](https://github.com/winofsql/subject-231206/assets/1501327/7268875b-7998-4bdb-be75-d1bfd16e60c1)
 
   ![image](https://github.com/winofsql/subject-231206/assets/1501327/a46343be-4256-4603-ba12-ea51000ff087)
+
+- ### lightbox.sqlite3
+  ![image](https://github.com/winofsql/subject-231206/assets/1501327/8690da13-fe61-443c-b565-8df2876821d4)
