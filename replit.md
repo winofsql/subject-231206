@@ -59,4 +59,32 @@
   wget -O hanbai.accdb https://github.com/winofsql/resource-winofsql/raw/main/access/%E8%B2%A9%E5%A3%B2%E7%AE%A1%E7%90%86.accdb
   ```
 
+  ```
+  import java.sql.*;
+  
+  class Main {
+    public static void main(String[] args) {
+  
+      String dbname = "hanbai.accdb";
+      Connection conn = null;
+      Statement stmt = null;
+      try {
+  
+        conn = DriverManager.getConnection("jdbc:ucanaccess://" + dbname);
+  
+        stmt = conn.createStatement();
+  
+        ResultSet rs = stmt.executeQuery("SELECT * FROM 社員マスタ");
+        while (rs.next()) {
+           String name = rs.getString("氏名");
+           System.out.println(name); // 取得したデータを表示
+        }
+        rs.close();
+  
+      } catch (Exception e) {
+        e.printStackTrace();
+      }
+    }
+  }
+  ```
  
