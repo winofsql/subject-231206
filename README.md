@@ -1,5 +1,7 @@
 # subject-231206
 
+### [ChatGPT への質問](https://chat.openai.com/share/584803be-ffc1-4b05-9c11-0dfd94e690a3)
+
 ![image](https://github.com/winofsql/subject-231206/assets/1501327/5fda0e69-fdd2-464f-9354-4be2b36d705f)
 
 MySQL 用接続文字列
