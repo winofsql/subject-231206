@@ -4,7 +4,6 @@
 
 ### Windows 用 sqlite3 ダウンロード 
 ![image](https://github.com/winofsql/subject-231206/assets/1501327/1cecedea-d381-442c-b03b-ac36f1440a56)
-
 [sqlite-tools-win-x64-バージョン.zip](https://www.sqlite.org/download.html)
 
 
